@@ -1,4 +1,5 @@
-== MVP Example ==
+MVP Example
+===========
 
 Example of using MVP pattern in simple android application that simulates user login. 
 
